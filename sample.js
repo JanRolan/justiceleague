@@ -1,1 +1,2 @@
-var = app1('')
+var = app1('');
+console.log('test');
